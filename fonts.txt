@@ -1,0 +1,14 @@
+header :- "gg sans"
+"Noto Sans"
+"Helvetica Neue"
+Helvetica
+Arial
+sans-serif
+
+hero-heading:- ABC Ginto Nord"
+"Noto Sans"
+"Helvetica Neue"
+Helvetica
+Arial
+sans-serif
+

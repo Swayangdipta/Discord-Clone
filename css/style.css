@@ -1,0 +1,42 @@
+.primary{
+    font-family: 'primary',"Noto Sans","Helvetica Neue","Helvetica","Arial","sans-serif" !important;
+}
+
+.primaryLight{
+    font-family: 'primaryLight',"Noto Sans","Helvetica Neue","Helvetica","Arial","sans-serif" !important;
+}
+
+.primaryBook{
+    font-family: 'primaryBook',"Noto Sans","Helvetica Neue","Helvetica","Arial","sans-serif" !important;
+}
+
+.primaryBold{
+    font-family: 'primaryBold',"Noto Sans","Helvetica Neue","Helvetica","Arial","sans-serif" !important;
+}
+
+.ginto{
+    font-family: ginto,"Noto Sans","Helvetica Neue","Helvetica","Arial","sans-serif" !important;
+}
+
+@font-face {
+    font-family: 'primary';
+    src: url("../assets/fonts/whitneymedium.otf");
+}
+@font-face {
+    font-family: 'primaryBook';
+    src: url("../assets/fonts/whitneybook.otf");
+}
+
+@font-face {
+    font-family: 'primaryLight';
+    src: url("../assets/fonts/whitneylight.otf");
+}
+@font-face {
+    font-family: 'primaryBold';
+    src: url("../assets/fonts/whitneybold.otf");
+}
+
+@font-face {
+    font-family: 'ginto';
+    src: url("../assets/fonts/ABCGintoNordVariable-Trial.ttf");
+}
